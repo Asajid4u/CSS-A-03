@@ -54,8 +54,7 @@
     border: 8px solid green;
     height: 815px;
     width: 1270px;
-    /* display: flex;
-    justify-content: flex-start; */
+    
 }
 
 .box1 {
@@ -100,14 +99,7 @@
     box-shadow: 8px 8px 3px 2px #7731b9;
     word-spacing: 0px;
     background-color: azure;
-    /* font-size: 29px;
-    font-weight: 900;
-    font-style: italic;
-    text-shadow: 2px 2px 0px 1px;
-    color: blueviolet;
-    background-color: azure;
-    box-shadow: 8px 8px 3px 2px #7731b9;
-    padding-top: 28px; */ */
+    
      
 }
 .box4 {
